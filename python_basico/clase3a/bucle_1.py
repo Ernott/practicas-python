@@ -1,16 +1,5 @@
-# Crea un programa que pida un número al usuario y escriba una pirámide de asteriscos con los números desde 1 hasta el número que ha introducido.
-# Por ejemplo, si el usuario ha introducido el número 6 la pirámide será:
-# *
-# **
-# ***
-# ****
-# *****
-# ******
-# *****
-# ****
-# ***
-# **
-# *
+# Descripcion: este programa solicita  al usuario un numero y crea un bucle que recorre el rango 
+# ascendente y descendente del carácter '*'
 num = int(input("Introduce un número: "))
 # Creamos un bucle que recorra el rango de números introducido por el usuario
 for i in range(num):
