@@ -1,4 +1,5 @@
-# Description: Este programa solicita al usuario una frase y una letra, y luego cuenta cuantas veces aparece la letra en la frase.
+# Descripcion: Este programa solicita al usuario una frase y una letra, y luego cuenta cuantas veces 
+# aparece la letra en la frase.
 frase = str(input("Ingrese una frase: "))
 letra = str(input("Ingrese una letra: "))
 # Creamos un bucle que valide que la letra introducida sea una letra
