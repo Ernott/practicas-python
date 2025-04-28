@@ -10,5 +10,7 @@ for num in lista:
             lista_duplicados.append(num)
     else: 
         lista_unica.append(num)
+lista = []
 print('Elementos unicos:', lista_unica)
-print('Elementos duplicados;', lista_duplicados)
+print('Elementos duplicados:', lista_duplicados)
+print('Elementos de la lista original:', lista)
