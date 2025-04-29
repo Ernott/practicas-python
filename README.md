@@ -3,7 +3,7 @@ Tarea 5.1
 Utilizando las etiquetas que hemos visto en esta clase, 
 realizar un documento html usando la plantilla boilerplate del 
 tema pasado, que tenga el siguiente aspecto
-![Tarea 5.1](\ernott-html-ejercicios\pictures\Captura de pantalla 2025-04-21 161009)
+![Tarea 5.1](pictures/Captura de pantalla 2025-04-21 161009.png)
 Tarea 5.2 
 Utilizando las etiquetas vistas en clase y los enlaces, intentar 
 crear un documento con ejemplos de cada tipo de etiqueta y 
