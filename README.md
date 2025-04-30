@@ -21,8 +21,14 @@ tarea 5.1 también en la lista de enlaces.
 
 ## Tarea 6.1
 
-Utilizando las etiquetas vistas en clase, realizar a traves de figma la identificacion de las etiquetas semánticas de 3 páguinas web.
+Utilizando las etiquetas vistas en clase, realizar a traves de **Figma** la identificacion de las etiquetas semánticas de 3 páginas web.
+
 _He realizado 3 portafolios de devs que encontré en el servidor de MoureDev, aquí les dejo los enlaces:_
+
 Erick Taveras: https://www.eriktaveras.com/
+
 Scarleth San Martin: https://scarlethsmlportafolio.netlify.app/
+
 Maverich Champi: https://maverickchampi.vercel.app/
+
+[Click para ver la tarea 6.1](https://www.figma.com/design/q3PiYhVbnxCML30SxCC3v4/Tarea6_1?node-id=0-1&t=iyMjHibTL6xk6184-1)
