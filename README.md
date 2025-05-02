@@ -46,8 +46,18 @@ Haz una lista ordenada de los cinco primeros países que vas a visitar en los pr
 
 Utilizando el ejercicio anterior, invierte el orden de los números
 
-[Click para ver la tarea 7.1](https://github.com/Ernott/ernott-html-ejercicios/tree/main/archivos_ejercicios/tarea7_1)
-
 ### Ejercicio 3
 
 Haz una lista desordenada de tus películas favoritas
+
+### Ejercicio 4
+
+Haz un documento por cada imagen de las que te muestro a continuación:
+
+![Tarea 7.1.4](pictures/instrucciones.png)
+
+![Tarea 7.1.4](pictures/menu.png)
+
+![Tarea 7.1.4](pictures/menucomplejo.png)
+
+[Click para ver la tarea 7.1](https://github.com/Ernott/ernott-html-ejercicios/tree/main/archivos_ejercicios/tarea7_1)
