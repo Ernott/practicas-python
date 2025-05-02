@@ -5,6 +5,7 @@
 Utilizando las etiquetas que hemos visto en esta clase,
 realizar un documento html usando la plantilla boilerplate del
 tema pasado, que tenga el siguiente aspecto.
+
 ![Tarea 5.1](pictures/Captura%20de%20pantalla%202025-04-21%20161009.png)
 
 [Click para ver la tarea 5.1](https://github.com/Ernott/ernott-html-ejercicios/tree/main/archivos_ejercicios/tarea5_1)
@@ -32,3 +33,11 @@ Scarleth San Martin: https://scarlethsmlportafolio.netlify.app/
 Maverich Champi: https://maverickchampi.vercel.app/
 
 [Click para ver la tarea 6.1](https://www.figma.com/design/q3PiYhVbnxCML30SxCC3v4/Tarea6_1?node-id=0-1&t=iyMjHibTL6xk6184-1)
+
+## Tarea 7.1
+
+Realizar un documento por cada enunciado para poder practicar las listas de elementos
+
+# Ejercicio 1
+
+Haz una lista ordenada de los cinco primeros países que vas a visitar en los próximos años. En la lista ordenada usarás números
