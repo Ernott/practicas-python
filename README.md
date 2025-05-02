@@ -42,4 +42,8 @@ Realizar un documento por cada enunciado para poder practicar las listas de elem
 
 Haz una lista ordenada de los cinco primeros países que vas a visitar en los próximos años. En la lista ordenada usarás números
 
+### Ejercicio 2
+
+Utilizando el ejercicio anterior, invierte el orden de los números
+
 [Click para ver la tarea 7.1](https://github.com/Ernott/ernott-html-ejercicios/tree/main/archivos_ejercicios/tarea7_1)
