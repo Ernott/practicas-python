@@ -38,6 +38,8 @@ Maverich Champi: https://maverickchampi.vercel.app/
 
 Realizar un documento por cada enunciado para poder practicar las listas de elementos
 
-# Ejercicio 1
+### Ejercicio 1
 
 Haz una lista ordenada de los cinco primeros países que vas a visitar en los próximos años. En la lista ordenada usarás números
+
+[Click para ver la tarea 7.1](https://github.com/Ernott/ernott-html-ejercicios/tree/main/archivos_ejercicios/tarea7_1)
