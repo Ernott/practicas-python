@@ -61,3 +61,13 @@ Haz un documento por cada imagen de las que te muestro a continuación:
 ![Tarea 7.1.4](pictures/menucomplejo.png)
 
 [Click para ver la tarea 7.1](https://github.com/Ernott/ernott-html-ejercicios/tree/main/archivos_ejercicios/tarea7_1)
+
+## Tarea 8.1
+
+Realizar las siguientes tablas a modo de práctica
+
+![Tarea 8.1](pictures/tabla1.png)
+
+![Tarea 8.1](pictures/tabla2.png)
+
+[Click para ver la tarea 8.1](https://github.com/Ernott/ernott-html-ejercicios/tree/main/archivos_ejercicios/tarea8_1)
