@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <!-- Título para el navegador y los buscadores -->
+    <title>Formularios en HTML</title>
+
+    <!-- Descripción de la página para los buscadores -->
+    <meta name="description" content="Página de tarea 12 para practicar" />
+
+    <!-- Palabras clave para los buscadores -->
+    <meta name="keywords" content="formularios, HTML" />
+
+    <!-- Autor de la página -->
+    <meta name="author" content="Ernott" />
+
+    <!-- Favicon de la página -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+
+    <!-- Codificación-->
+    <meta charset="UTF-8" />
+
+    <!-- Para que la web sea responsive -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Para algunos navegadores móviles -->
+    <meta name="theme-color" content="#1e7bbf" />
+  </head>
+
+  <body>
+    <header>
+      <h1>Formulario 12.1</h1>
+      <p><a href="index.html">👈 Volver atrás</a></p>
+    <hr />
+    </header>
+
+    <Main>
+      <h2> Formulario de registro - Mi web</h2>
+      <p>Formulario de ejemplo</p>
+      <form action="tarea12_1.html" name='form12_1' method="get">
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre" name="nombre" required />
+        <br />
+        <label for="apellido">Apellido:</label>
+        <input type="text" id="apellido" name="apellido" required />
+        <br />
+        <label>
+        <p>Seleccione su género:</p>
+         <input type="radio" name="genero" value="female"> Femenino
+        </label>
+        <label>
+         <input type="radio" name="genero" value="male"> Masculino
+        </label>
+        <label>
+         <input type="radio" name="genero" value="other"> Otro
+        </label>
+        <br />
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required />
+        <br />
+        <label for="location">Seleccione su población:</label>
+        <select name="location" id="location">
+          <option value="">-</option>
+          <option value="alicante">Alicante</option>
+          <option value="madrid">Madrid</option>
+          <option value="sevilla">Sevilla</option>
+          <option value="valencia">Valencia</option>
+        </select>
+        <br>
+        <textarea name="description rows="4" cols="30" placeholder="Escribe tu descripción aquí..."></textarea>
+        <br />
+        <input type="submit" value="Enviar" />
+      </form>
+      <hr>
+    </Main>
+
+    <footer>
+      © 2025 - Todos los derechos reservados
+    </footer>
+  </body>
+</html>
