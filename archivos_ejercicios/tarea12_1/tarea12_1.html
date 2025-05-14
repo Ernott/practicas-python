@@ -30,51 +30,88 @@
     <header>
       <h1>Formulario 12.1</h1>
       <p><a href="index.html">👈 Volver atrás</a></p>
-    <hr />
+      <hr />
     </header>
 
-    <Main>
-      <h2> Formulario de registro - Mi web</h2>
-      <p>Formulario de ejemplo</p>
-      <form action="tarea12_1.html" name='form12_1' method="get">
-        <label for="nombre">Nombre:</label>
-        <input type="text" id="nombre" name="nombre" required />
-        <br />
-        <label for="apellido">Apellido:</label>
-        <input type="text" id="apellido" name="apellido" required />
-        <br />
-        <label>
-        <p>Seleccione su género:</p>
-         <input type="radio" name="genero" value="female"> Femenino
-        </label>
-        <label>
-         <input type="radio" name="genero" value="male"> Masculino
-        </label>
-        <label>
-         <input type="radio" name="genero" value="other"> Otro
-        </label>
-        <br />
-        <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required />
-        <br />
-        <label for="location">Seleccione su población:</label>
-        <select name="location" id="location">
-          <option value="">-</option>
-          <option value="alicante">Alicante</option>
-          <option value="madrid">Madrid</option>
-          <option value="sevilla">Sevilla</option>
-          <option value="valencia">Valencia</option>
-        </select>
-        <br>
-        <textarea name="description rows="4" cols="30" placeholder="Escribe tu descripción aquí..."></textarea>
-        <br />
-        <input type="submit" value="Enviar" />
-      </form>
-      <hr>
-    </Main>
+    <main>
+      <h2>Formulario de registro - Mi web</h2>
 
-    <footer>
-      © 2025 - Todos los derechos reservados
-    </footer>
+      <form action="" name="form12_1" method="get">
+        <p>
+          <label for="nombre">Nombre:</label>
+          <input
+            type="text"
+            id="nombre"
+            name="nombre"
+            maxlength="50"
+            required
+          />
+        </p>
+        <p>
+          <label for="apellido">Apellido:</label>
+          <input
+            type="text"
+            id="apellido"
+            name="apellido"
+            maxlength="50"
+            required
+          />
+        </p>
+
+        <p>
+          Seleccione su género: <br />
+          <input type="radio" name="genero" value="f" id="female" />
+          <label for="female">Femenino</label>
+          <input type="radio" name="genero" value="m" id="male" />
+          <label for="male">Masculino</label>
+          <input type="radio" name="genero" value="o" id="other" />
+          <label for="other">Otro</label>
+        </p>
+
+        <p>
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" required />
+        </p>
+
+        <p>
+          <label for="location">Seleccione su población:</label>
+          <select name="location" id="location">
+            <option value="">-</option>
+            <option value="alicante">Alicante</option>
+            <option value="madrid">Madrid</option>
+            <option value="sevilla">Sevilla</option>
+            <option value="valencia">Valencia</option>
+          </select>
+        </p>
+        <p>
+          <label for="description" id="description">Descripción</label><br />
+          <textarea
+            name="description"
+            rows="4"
+            cols="30"
+            placeholder="Escribe tu descripción aquí..."
+          ></textarea>
+        </p>
+        <p>
+          <input type="checkbox" id="news" name="news" checked />
+          <label for="aceptar"
+            >Deseo recibir información sobre novedades y ofertas</label
+          >
+        </p>
+        <p>
+          <input type="checkbox" id="policy" name="policy" required />
+          <label for="aceptar"
+            >Declaro haber leido y aceptar las condiciones generales del
+            programa y la normativa sobre protección de datos</label
+          >
+        </p>
+        <p>
+          <input type="submit" value="Enviar" />
+        </p>
+      </form>
+      <hr />
+    </main>
+
+    <footer>© 2025 - Todos los derechos reservados</footer>
   </body>
 </html>
