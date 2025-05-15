@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <!-- Título para el navegador y los buscadores -->
+    <title>Formularios en HTML</title>
+
+    <!-- Descripción de la página para los buscadores -->
+    <meta name="description" content="Página de tarea 12 para practicar" />
+
+    <!-- Palabras clave para los buscadores -->
+    <meta name="keywords" content="formularios, HTML" />
+
+    <!-- Autor de la página -->
+    <meta name="author" content="Ernott" />
+
+    <!-- Favicon de la página -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+
+    <!-- Codificación-->
+    <meta charset="UTF-8" />
+
+    <!-- Para que la web sea responsive -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Para algunos navegadores móviles -->
+    <meta name="theme-color" content="#1e7bbf" />
+  </head>
+
+  <body>
+    <header>
+      <h1>Tarea 12.4</h1>
+      <p><a href="index.html">👈 Volver atrás</a></p>
+      <hr />
+    </header>
+
+    <main>
+      <h2>información sobre Producto</h2>
+      <form action="" method="get">
+        <fieldset>
+          <legend>Datos de usuario</legend>
+          <p>
+            <label for="nombre">Nombre:</label>
+            <input
+              type="text"
+              id="nombre"
+              name="nombre"
+              maxlength="50"
+              required
+            />
+          </p>
+
+          <p>
+            <label for="description" id="description">Descripción</label><br />
+            <textarea name="description" rows="4" cols="30"></textarea>
+          </p>
+          <label for="pic">Foto:</label>
+          <input type="file" id="pic" name="pic" /><br /><br />
+          <label for="cont">Añadir contador de visitas</label>
+          <input type="checkbox" name="cont" id="cont" value="cont" />
+        </fieldset>
+        <fieldset>
+          <legend>Datos Económicos</legend>
+          <p>
+            <label for="price">Ingrese Precio €: </label>
+            <input type="number" id="price" name="price" min="1" max="999" />
+            <label for="fee"> Impuestos:</label>
+            <select name="fee" id="fee">
+              <option value="">-</option>
+              <option value="4">4%</option>
+              <option value="7">7%</option>
+              <option value="16">16%</option>
+              <option value="25">25%</option>
+            </select>
+          </p>
+          <p>
+            <input type="radio" name="promo" id="promo1" value="none" />
+            <label for="none">Ninguno</label><br />
+            <input type="radio" name="promo" id="promo2" value="promo1" />
+            <label for="promo1">Transporte gratuito</label><br />
+            <input type="radio" name="promo" id="promo3" value="promo2" />
+            <label for="promo2">Descuento 5%</label>
+          </p>
+        </fieldset>
+        <p>
+          <input type="submit" value="Enviar" />
+        </p>
+      </form>
+    </main>
+    <hr />
+    <footer>© 2025 - Todos los derechos reservados</footer>
+  </body>
+</html>

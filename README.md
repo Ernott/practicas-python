@@ -74,40 +74,49 @@ Realizar las siguientes tablas a modo de práctica
 
 ## Tarea 12.1
 
-Crea una página web que contenga un formulario con los siguientes 
+Crea una página web que contenga un formulario con los siguientes
 campos de información
+
 - El nombre, con un control de tipo texto
 - Los apellidos, con un control de tipo texto
 - El sexo, con dos opciones excluyentes hombre o mujer
 - El correo electrónico, con un control de tipo email
-- Una casilla de verificación con el texto "Deseo recibir información sobre 
-novedades y ofertas"
-- Una casilla de verificación con el texto "Declaro haber leido y aceptar las 
-condiciones generales del programa y la normativa sobre protección de 
-datos"
+- Una casilla de verificación con el texto "Deseo recibir información sobre
+  novedades y ofertas"
+- Una casilla de verificación con el texto "Declaro haber leido y aceptar las
+  condiciones generales del programa y la normativa sobre protección de
+  datos"
 - Un botón de envío
-- Población, una lista desplegable con las opciones Alicante, Madrid, 
-Sevilla y Valencia
+- Población, una lista desplegable con las opciones Alicante, Madrid,
+  Sevilla y Valencia
 - Descripción, un área de texto multilínea
-- Además, tienes que asociar la etiqueta de cada control a su control para 
-mejorar la usabilidad y la accesibilidad.
+- Además, tienes que asociar la etiqueta de cada control a su control para
+  mejorar la usabilidad y la accesibilidad.
 - Además, tienes que tener en cuenta los siguientes requisitos
 - El título de la página debe ser Formulario de registro - Mi web
 - El método de envío del formulario debe ser GET
 - El destino del envío del formulario debe ser ""
-- La longitud máxima de entrada de datos de los controles para el nombre 
-y los apellidos debe ser 50 caracteres
-- La casilla de verificación con el texto "Deseo recibir información sobre 
-novedades y ofertas" debe estar activada por defecto
+- La longitud máxima de entrada de datos de los controles para el nombre
+  y los apellidos debe ser 50 caracteres
+- La casilla de verificación con el texto "Deseo recibir información sobre
+  novedades y ofertas" debe estar activada por defecto
+
+[Click para ver la tarea 12.1](https://github.com/Ernott/ernott-html-ejercicios/tree/main/archivos_ejercicios/tarea12_1)
 
 ## Tarea 12.2
 
 ![Tarea 12.2](pictures/12_2.png)
 
+[Click para ver la tarea 12.2](https://github.com/Ernott/ernott-html-ejercicios/tree/main/archivos_ejercicios/tarea12_2)
+
 ## Tarea 12.3
 
 ![Tarea 12.3](pictures/12_3.png)
 
+[Click para ver la tarea 12.3](https://github.com/Ernott/ernott-html-ejercicios/tree/main/archivos_ejercicios/tarea12_3)
+
 ## Tarea 12.4
 
 ![Tarea 12.4](pictures/12_4.png)
+
+[Click para ver la tarea 12.4](https://github.com/Ernott/ernott-html-ejercicios/tree/main/archivos_ejercicios/tarea12_4)

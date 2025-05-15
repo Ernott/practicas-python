@@ -37,61 +37,66 @@
       <h2>Formulario de registro - Mi web</h2>
 
       <form action="" name="form12_1" method="get">
-        <p>
-          <label for="nombre">Nombre:</label>
-          <input
-            type="text"
-            id="nombre"
-            name="nombre"
-            maxlength="50"
-            required
-          />
-        </p>
-        <p>
-          <label for="apellido">Apellido:</label>
-          <input
-            type="text"
-            id="apellido"
-            name="apellido"
-            maxlength="50"
-            required
-          />
-        </p>
+        <fieldset>
+          <legend>Datos de Usuario</legend>
+          <p>
+            <label for="nombre">Nombre:</label>
+            <input
+              type="text"
+              id="nombre"
+              name="nombre"
+              maxlength="50"
+              required
+            />
+          </p>
+          <p>
+            <label for="apellido">Apellido:</label>
+            <input
+              type="text"
+              id="apellido"
+              name="apellido"
+              maxlength="50"
+              required
+            />
+          </p>
 
-        <p>
-          Seleccione su género: <br />
-          <input type="radio" name="genero" value="f" id="female" />
-          <label for="female">Femenino</label>
-          <input type="radio" name="genero" value="m" id="male" />
-          <label for="male">Masculino</label>
-          <input type="radio" name="genero" value="o" id="other" />
-          <label for="other">Otro</label>
-        </p>
+          <p>
+            Seleccione su género: <br />
+            <input type="radio" name="genero" value="f" id="female" />
+            <label for="female">Femenino</label>
+            <input type="radio" name="genero" value="m" id="male" />
+            <label for="male">Masculino</label>
+            <input type="radio" name="genero" value="o" id="other" />
+            <label for="other">Otro</label>
+          </p>
 
-        <p>
-          <label for="email">Email:</label>
-          <input type="email" id="email" name="email" required />
-        </p>
-
-        <p>
-          <label for="location">Seleccione su población:</label>
-          <select name="location" id="location">
-            <option value="">-</option>
-            <option value="alicante">Alicante</option>
-            <option value="madrid">Madrid</option>
-            <option value="sevilla">Sevilla</option>
-            <option value="valencia">Valencia</option>
-          </select>
-        </p>
-        <p>
-          <label for="description" id="description">Descripción</label><br />
-          <textarea
-            name="description"
-            rows="4"
-            cols="30"
-            placeholder="Escribe tu descripción aquí..."
-          ></textarea>
-        </p>
+          <p>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required />
+          </p>
+        </fieldset>
+        <fieldset>
+          <legend>Extra</legend>
+          <p>
+            <label for="location">Seleccione su población:</label>
+            <select name="location" id="location">
+              <option value="">-</option>
+              <option value="alicante">Alicante</option>
+              <option value="madrid">Madrid</option>
+              <option value="sevilla">Sevilla</option>
+              <option value="valencia">Valencia</option>
+            </select>
+          </p>
+          <p>
+            <label for="description" id="description">Descripción</label><br />
+            <textarea
+              name="description"
+              rows="4"
+              cols="30"
+              placeholder="Escribe tu descripción aquí..."
+            ></textarea>
+          </p>
+        </fieldset>
         <p>
           <input type="checkbox" id="news" name="news" checked />
           <label for="aceptar"
