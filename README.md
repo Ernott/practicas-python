@@ -101,22 +101,16 @@ campos de información
 - La casilla de verificación con el texto "Deseo recibir información sobre
   novedades y ofertas" debe estar activada por defecto
 
-[Click para ver la tarea 12.1](https://github.com/Ernott/ernott-html-ejercicios/tree/main/archivos_ejercicios/tarea12_1)
-
 ## Tarea 12.2
 
 ![Tarea 12.2](pictures/12_2.png)
-
-[Click para ver la tarea 12.2](https://github.com/Ernott/ernott-html-ejercicios/tree/main/archivos_ejercicios/tarea12_2)
 
 ## Tarea 12.3
 
 ![Tarea 12.3](pictures/12_3.png)
 
-[Click para ver la tarea 12.3](https://github.com/Ernott/ernott-html-ejercicios/tree/main/archivos_ejercicios/tarea12_3)
-
 ## Tarea 12.4
 
 ![Tarea 12.4](pictures/12_4.png)
 
-[Click para ver la tarea 12.4](https://github.com/Ernott/ernott-html-ejercicios/tree/main/archivos_ejercicios/tarea12_4)
+[Click para ver la tarea 12](https://github.com/Ernott/ernott-html-ejercicios/tree/main/archivos_ejercicios/tarea12_1)
